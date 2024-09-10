@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheStringKing
+- 👋 Hi, I’m @DandreOpperman
 - 👀 I’m interested in python
 - 🌱 I’m currently learning Java Script
 - 💞️ I’m looking to collaborate on coding projects
